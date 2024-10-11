@@ -1,6 +1,6 @@
 // TODO: we need to add the missing classes!
 
-// OK, I will add `Adder` and s31164     will add `Subtractor`.
+// OK, I will add `Adder` and s31164  will add `Subtractor`.
 
 
 public class Main {
